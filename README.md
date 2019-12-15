@@ -1,5 +1,5 @@
 # psychic-happiness
-"My first repository"
+"This is my first Repository"
 
 
 "Hello Sugar Labs!!!"
